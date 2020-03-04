@@ -1,0 +1,15 @@
+{
+  "name": "e2e_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.0.1",
+    "eslint-plugin-cypress": "^2.8.1"
+  }
+}
